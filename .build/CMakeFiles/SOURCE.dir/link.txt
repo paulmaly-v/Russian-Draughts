@@ -1,1 +1,0 @@
-/usr/bin/c++   -g -O0 -fprofile-arcs -ftest-coverage  -rdynamic CMakeFiles/SOURCE.dir/src/view.o  -o SOURCE 
